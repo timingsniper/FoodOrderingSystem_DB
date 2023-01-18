@@ -3,7 +3,7 @@
 ![alt text](https://github.com/timingsniper/FoodOrderingSystem_DB/blob/main/website.png)
 ![alt text](https://github.com/timingsniper/FoodOrderingSystem_DB/blob/main/E-R图.png)
  
-This is a food ordering system created with MySQL and PHP for 数据库概论@Peking University 2022-2023 1st Semester.
+This is a food ordering system created with MySQL and PHP for **数据库概论@Peking University** 2022-2023 1st Semester. Codes written by Percy Joonwoo Jang 张晙优.
 
 本程序名称为“彬彬外卖平台”，是基于MySQL 8.0设计的数据库和PHP+Apache客户端方式的外卖管理系统程序。用户可以以客户，商户，骑手，管理员的身份注册并登录使用本系统。根据用户类别，用户可在本程序上使用的功能如下：
 
